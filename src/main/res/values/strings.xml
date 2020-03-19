@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Verification code</string>
+    <string name="app_name">pizza</string>
+    <string name="continue_to_menu">Continue to menu</string>
+    <string name="select_address">Select Address</string>
+    <string name="change_order_type_to_pick">Change order type to pick</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+
+    <string name="later">later</string>
+    <string name="now">Now</string>
+    <string name="when_would_you_like_your_order_be_deliverd_to">When would you like your order be </string>
+    <string name="delevered_to">delevered to?</string>
+    <string name="delivery_order_details">DELIVERY ORDER DETAILS</string>
+    <string name="when_would_you_like_to_place_your_order">When Would you like to place your order?</string>
+    <string name="pizza_mad">Pizza Mat</string>
+    <string name="pizza">pizza</string>
+
 </resources>
