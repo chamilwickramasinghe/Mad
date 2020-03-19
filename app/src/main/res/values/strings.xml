@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PizzaMat</string>
+    <string name="txt1">Chiken Bacon</string>
+    <string name="price1">Rs.590</string>
+    <string name="txtBtn">Customize</string>
+    <string name="btn1">Pizza</string>
+    <string name="btn2"><![CDATA[appetizers & others]]></string>
+    <string name="btn3">promos</string>
+    <string name="btn4">change delivery details</string>
+    <string name="txt2">MENU</string>
+    <string name="price2">Rs.490</string>
+    <string name="price3">Rs.650</string>
+    <string name="price4">Rs.750</string>
+    <string name="txt3">Cheese Lovers</string>
+    <string name="txt4">Devilled Fish</string>
+    <string name="txt5">BBQ Chicken</string>
+</resources>
